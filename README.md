@@ -1,10 +1,8 @@
 # Risk Management with Financial Networks
 
-## Purpose
+Welcome to my **"network-trading"** repository!
 
-
-## Contents
-
+This repository contains notes and code for an algorithmic trading project that emphasizes risk management using advanced network modeling techniques. 
 
 ## References
 
