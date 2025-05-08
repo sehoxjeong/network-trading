@@ -1,4 +1,4 @@
-# Risk Management with Financial Networks
+# Risk Management via Financial Network Analysis
 
 > [!WARNING]
 > Work in progress!
