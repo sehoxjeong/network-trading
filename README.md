@@ -1,4 +1,4 @@
-# Financial Trading via Financial Network Analysis
+# Financial Trading via Network Analysis
 
 > [!WARNING]
 > Work in progress!
